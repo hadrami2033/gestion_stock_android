@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gestion Stock</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="sign_in">Connecter</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
